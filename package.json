@@ -1,0 +1,8 @@
+{
+  "name": "associacao-fenix-front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaiquecaires/associacao-fenix-front.git",
+  "author": "kaiquecaires <kaique.caires@yahoo.com>",
+  "license": "MIT"
+}
