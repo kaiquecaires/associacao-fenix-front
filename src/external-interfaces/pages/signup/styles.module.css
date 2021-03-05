@@ -3,6 +3,15 @@
 }
 
 .header {
-  height: 10vh;
+  display: flex;
+  height: 5vh;
   border-bottom: 0.1rem solid #E6D5B8;
+  align-items: center;
+  padding: 1rem;
+}
+
+.header svg {
+  fill: white;
+  height: 3rem;
+  width: 3rem;
 }
