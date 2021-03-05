@@ -1,3 +1,5 @@
+import './styles/styles.css'
+
 type Props = {
   Component: React.FC
   pageProps: any
