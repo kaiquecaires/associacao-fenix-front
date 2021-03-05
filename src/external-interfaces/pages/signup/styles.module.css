@@ -10,8 +10,9 @@
   padding: 1rem;
 }
 
-.header svg {
-  fill: white;
+.header .logo {
+  fill: #E6D5B8;
   height: 3rem;
   width: 3rem;
+  cursor: pointer;
 }

@@ -7,7 +7,7 @@ const SignUp: React.FC = () => {
   return (
     <div className={`${sharedStyles.primaryColor} ${styles.container}`}>
       <header className={styles.header}>
-        <Logo />
+        <Logo className={styles.logo} />
       </header>
     </div>
   )
