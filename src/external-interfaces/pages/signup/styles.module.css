@@ -1,0 +1,8 @@
+.container {
+  height: 100vh;
+}
+
+.header {
+  height: 10vh;
+  border-bottom: 0.1rem solid #E6D5B8;
+}
