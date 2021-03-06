@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import sharedStyles from '../../shared-styles/styles.module.css'
 import styles from './styles.module.css'
 import Logo from '../../../../public/logo.svg'
